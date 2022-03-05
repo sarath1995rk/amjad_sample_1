@@ -1,4 +1,4 @@
-# amjad_project_demo
+project_demo
 
 A new Flutter project.
 
